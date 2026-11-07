@@ -22,7 +22,9 @@ Setelah terpasang, CekScam memeriksa versi baru sendiri dan memberi tahu di Dasb
 
 ## Peringatan Windows SmartScreen
 
-Installer CekScam belum ditandatangani sertifikat, jadi Windows bisa menampilkan "Windows melindungi PC Anda". Klik **Info selengkapnya → Tetap jalankan**.
+Windows mungkin menampilkan ‘Windows melindungi PC Anda’. Klik **Info selengkapnya → Tetap jalankan**. Peringatan ini muncul karena CekScam belum memakai sertifikat berbayar. File pembaruan sudah diperiksa keasliannya oleh CekScam.
+
+Peringatan ini bisa muncul saat memasang pertama kali dan juga saat memasang pembaruan dari dalam aplikasi (Pengaturan → Pembaruan aplikasi → Mulai Ulang & Pasang). Bila Anda terlanjur menekan **Jangan jalankan**, buka CekScam lagi: versi lama tetap berjalan seperti biasa dan pembaruan bisa dipasang ulang dari Pengaturan.
 
 ## Mencocokkan SHA-256
 
